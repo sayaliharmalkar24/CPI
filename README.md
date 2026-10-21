@@ -1,4 +1,3 @@
-# CPI
 #  CPI Inflation CaseStudy in India (2013–2023)
 
 ##  Skills & Tools Used
