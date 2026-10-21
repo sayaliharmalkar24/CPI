@@ -157,7 +157,7 @@ It provides practical experience in data preparation, trend analysis, data visua
 
 Aspiring Data Analyst | Excel | Data Analytics | Data Visualization
 
-LinkedIn :- https://www.linkedin.com/in/sayali-h-3176a7209?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
+LinkedIn :- https://www.linkedin.com/in/sayali-h-3176a7209
 Gmail Id :- sayaliharmalkar24@gmail.com
 GitHub Id :- https://github.com/sayaliharmalkar24
 
