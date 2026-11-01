@@ -1,6 +1,5 @@
 #  CPI Inflation CaseStudy in India (2013–2023)
 
-##  Skills & Tools Used
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -31,6 +30,22 @@ The project uses Microsoft Excel to clean and transform data, analyze category-w
 - Perform correlation analysis between fuel and selected expenditure categories.
 - Present findings through Excel-based analysis and visualizations.
 
+##  Repository Structure 
+
+CPI-Inflation-Analysis/
+
+
+├──  README.md
+│   └── Project overview, objectives, analysis, insights, and conclusion
+
+
+├──  CPI_Inflation_Project.xlsx
+│   └── Complete CPI Inflation analysis created using Microsoft Excel
+
+└──  CPI_Inflation_Unzipped File
+    └── Screenshot of the Excel analysis 
+
+    
 ##  Tools & Techniques
 
 - Microsoft Excel
@@ -63,7 +78,6 @@ The Excel workbook contains the following sheets:
 | `Fuel Vs Non-alcoholic` | Fuel and non-alcoholic beverages comparison |
 | `Fuel Vs Cereals` | Fuel and cereals index comparison |
 
-##  Key Findings
 
 ### 1. Broader Category wise Inflation
 
@@ -129,7 +143,6 @@ The workbook reports the following correlations:
 
 These results indicate positive associations between fuel and non-alcoholic beverages, and between fuel and transportation. The other two comparisons show weak negative associations in the analyzed data.
 
-*Note: Correlation does not imply causation. CPI index values are not the same as inflation rates; percentage changes in the index over a defined period are needed to measure inflation.*
 
 ##  Skills Demonstrated
 
